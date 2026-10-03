@@ -1,0 +1,19 @@
+message_type,description,all_market_count,AAPL_count
+A,Add Order,132547823,769396
+C,Order Executed with Price,106494,717
+D,Order Delete,128766419,731241
+E,Order Executed,7003614,54748
+F,Add Order with MPID,1328373,2670
+H,Stock Trading Action,8903,1
+I,NOII,3741431,420
+J,Other ITCH message,6,0
+K,Other ITCH message,1,0
+L,Market Participant Position,214866,53
+P,Trade (Non-Cross),1396841,10156
+Q,Cross Trade,17781,2
+R,Stock Directory,8887,1
+S,System Event,6,0
+U,Order Replace,24444132,98898
+V,Other ITCH message,1,0
+X,Order Cancel,2752498,1288
+Y,Reg SHO Restriction,8991,1

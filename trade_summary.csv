@@ -1,0 +1,12 @@
+metric,value
+continuous_trade_count,65046.0
+continuous_volume,4495438.0
+continuous_vwap,235.94126325176768
+cross_trade_count,2.0
+opening_cross_count,1.0
+opening_cross_price,234.53
+opening_cross_volume,1664440.0
+closing_cross_count,1.0
+closing_cross_price,236.41
+closing_cross_volume,1972810.0
+broken_trade_count,0.0

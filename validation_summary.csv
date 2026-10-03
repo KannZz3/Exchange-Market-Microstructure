@@ -1,0 +1,15 @@
+metric,value
+expected_snapshots,23400
+actual_snapshots,23400
+missing_best_bid,0
+missing_best_ask,0
+negative_spread,0
+locked_book,0
+negative_bid_size,0
+negative_ask_size,0
+active_orders_at_16_00,27814
+broken_trade_matches,0
+target_Q_messages,2
+recorded_Q_trades,2
+opening_cross_count,1
+closing_cross_count,1
